@@ -59,6 +59,7 @@ go run main.go
 ```
 telebot/
 ├── main.go          # Основной код бота
+├── handlers.go      # Обработчики команд
 ├── go.mod           # Файл зависимостей Go
 ├── go.sum           # Хеши зависимостей
 ├── bot.log          # Файл логов
