@@ -51,7 +51,7 @@ export TELEGRAM_BOT_TOKEN="ваш_токен_бота"
 ## Запуск
 
 ```bash
-go run main.go
+go run main.go handlers.go
 ```
 
 ## Структура проекта
